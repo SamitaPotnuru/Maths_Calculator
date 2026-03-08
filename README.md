@@ -1,4 +1,3 @@
-# calculator
 # 🧮 Maths Solver Calculator
 
 ## ✨ Features
@@ -38,23 +37,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-### Option 1 — Open directly
-Just open `calculator.html` in any modern browser. That's it!
-
-### Option 2 — Serve locally
-```bash
-# Using npx
-npx serve public
-
-# Or Python
-python -m http.server 8000 --directory public
-```
-
-Then visit `http://localhost:8000/calculator.html`
-
----
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +61,7 @@ Then visit `http://localhost:8000/calculator.html`
 
 ---
 
-## 🤝 Contributing
+## 🤝 Pushing into Vscode
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/new-function`)
@@ -88,6 +70,3 @@ Then visit `http://localhost:8000/calculator.html`
 5. Open a Pull Request
 
 ---
-
-
-<p align="center">Made with ❤️ using pure HTML, CSS & JavaScript</p>
