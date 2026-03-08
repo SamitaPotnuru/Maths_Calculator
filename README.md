@@ -1,4 +1,4 @@
-# 🧮 Maths Solver Calculator
+# 🧮 Maths Calculator
 
 ## ✨ Features
 
